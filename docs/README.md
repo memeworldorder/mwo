@@ -2,12 +2,7 @@
 description: >-
   A Solana Utility Token for Competitions, Community Rewards, and Deflationary
   Mechanisms
-cover: .gitbook/assets/Discord_Banner.gif
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
