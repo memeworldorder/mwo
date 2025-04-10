@@ -16,8 +16,6 @@ description: Marketing & Development
 
 <summary><strong>If you already have a Solana wallet:</strong></summary>
 
-{% include "../../.gitbook/includes/steps.md" %}
-
 
 
 </details>
